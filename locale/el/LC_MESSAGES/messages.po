@@ -54,11 +54,11 @@ msgstr "του {author}"
 
 #: hearth/templates/_macros/rating.html:12
 msgid "for previous version {version}"
-msgstr ""
+msgstr "για παλιότερη έκδοση {version}"
 
 #: hearth/templates/_macros/rating.html:21
 msgid "Flagged for review"
-msgstr ""
+msgstr "Σημειώθηκε για αξιολόγηση"
 
 #: hearth/templates/_macros/rating.html:25
 msgid "Edit"
