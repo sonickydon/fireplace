@@ -635,7 +635,7 @@ msgstr ""
 
 #: hearth/media/js/views/feedback.js:27
 msgid "There was a problem submitting your feedback. Try again soon."
-msgstr ""
+msgstr "Παρουσιάστηκε σφάλμα κατά την υποβολή του σχόλιου. Δοκιμάστε ξανά αργότερα."
 
 #: hearth/media/js/views/not_found.js:9
 msgid "Not Found"
@@ -651,5 +651,5 @@ msgstr "Οι ρυθμίσεις αποθηκεύτηκαν"
 
 #: hearth/media/js/views/settings.js:27
 msgid "Settings could not be saved"
-msgstr "Δεν ήταν δυαντή η αποθήκευση των ρυθμίσεων"
+msgstr "Δεν ήταν δυνατή η αποθήκευση των ρυθμίσεων"
 
